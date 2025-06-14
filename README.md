@@ -1,4 +1,4 @@
-# Hi there, I'm Brom! 👋
+# Hi there, I'm Tuna! 👋
 
 🎯 *Future Software Engineer* | 💻 Currently learning HTML, CSS, JavaScript  
 📚 Decided to attend university to boost my software journey  
